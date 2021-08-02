@@ -79,7 +79,7 @@ print('Hola mundo')
 <!--Imagen-->
 ![VisualStudio Code](https://res.cloudinary.com/practicaldev/image/fetch/s--HwXlqFEY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://code4coders.files.wordpress.com/2019/05/fb96e-1lywb7ys4csml17u2fhu5ig.png%3Fw%3D700%26zoom%3D2%2522%2520Logo%2520Title%2520Text%25201%2522 "VisualStudio Code")
 
-![VisualStudio Code](imagenes/vscode_logo.png "VisualStudio Code")
+![VisualStudio Code](Imagenes/vscode_logo.png "VisualStudio Code")
 
 <!--GitHub Markdown-->
 * [x] Task 1
